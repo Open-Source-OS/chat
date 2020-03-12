@@ -1,0 +1,2 @@
+# chat
+Free Open Source Private Messaging App that Uses no Data Collection except Voluntarily submitted bugs and feedback from users and contributors. Intends to use a non circumventable hoppig system similar to the way chunks of impossible to understand data are decompiled and recompiled in Torrent Clients, without the private information of the seeders being revealed. Seeded Chunks of Encrypted Chat Data Packets through private servers, without the end users being spied on
